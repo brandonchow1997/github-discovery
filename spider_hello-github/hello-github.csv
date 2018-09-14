@@ -1,0 +1,174 @@
+title,description,programming_language
+awesome-python-webapp,廖老师的 Python 入门教程中的实践项目的代码，,Python
+title,description,programming_language
+Minos,一个基于 Tornado/MongoDB/Redis 的社区系统,Python
+title,description,programming_language
+tushare,TuShare 是一个免费、开源的 Python 财经数据接口包，,Python
+title,description,programming_language
+beijing_bus,北京实时公交，可以显示查询的公交到达某站还需多久,Python
+title,description,programming_language
+luokr.com,Python Tornado 写的开源网站——螺壳网，，如图：,Python
+title,description,programming_language
+ssbc,Python Django 写的种子搜索网站——手撕包菜，，如图：,Python
+title,description,programming_language
+listen1,Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：,Python
+title,description,programming_language
+python-gems,有趣的 Pyhton 代码片段集合,Python
+title,description,programming_language
+algorithm,老齐的 Python 算法教程,Python
+title,description,programming_language
+mincss,Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：,Python
+title,description,programming_language
+KindleEar,这是一个运行在 Google App Engine(GAE) 上的 Kindle 个人推送服务应用，生成排版精美的杂志模式  格式自动每天推送至您的 Kindle 或其他邮箱。,Python
+title,description,programming_language
+python-guide,的作者——kennethreitz，写的 Python 教程，是个指导性教程，不单单是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是()，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。,Python
+title,description,programming_language
+flask-admin,我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。，下面是我跑起来之后的样子：,Python
+title,description,programming_language
+python-sdk,七牛云存储 SDK。我自己在用他家的服务，上手简单、有免费额度，可以用来做‘图床’，同时，有了这个 SDK 可以写一些好用的小工具。：图床不能随便用，我曾经就用超了，账户的钱能扣成！,Python
+title,description,programming_language
+superset,，airbnb 做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：,Python
+title,description,programming_language
+flaskbb,基于 Flask 框架做的论坛，功能有限，轻量级的论坛应用，可以在这个项目上进行二次开发，实现更加复杂的功能。,Python
+title,description,programming_language
+fuck-login,模拟登录一些知名的网站，为了方便爬取需要登录的网站。：控制爬虫的爬取频率！,Python
+title,description,programming_language
+Young,基于 Tornado 框架、MongoDB 数据库，写的功能丰富的社区项目。详细的，适合学习如何创建社区类 Web App。，项目运行效果图：,Python
+title,description,programming_language
+qrcode,Python 写的生成动态、彩色、各式各样的二维码，详细的，通过  生成的二维码样式如下：,Python
+title,description,programming_language
+httpie,非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。，下面的是 cURL 和 httpie 的返回结果对比图：,Python
+title,description,programming_language
+langid,用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：,Python
+title,description,programming_language
+fake-useragent,伪装浏览器身份，常用于爬虫。这个项目的代码很少，可以阅读一下，看看  是如何返回随机的浏览器身份的😁，示例代码：,Python
+title,description,programming_language
+reddit,网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。,Python
+title,description,programming_language
+httpstat,httpstat 美化了  的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：,Python
+title,description,programming_language
+PyMySQL,纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于  性能几乎一样，使用方法也一样，但是 ——，PyMySQL 使用示例代码：,Python
+title,description,programming_language
+flask-limiter,Flask-Limiter 是一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数等，示例代码如下：,Python
+title,description,programming_language
+ngrok,ngrok 是一个十分方便、好用的工具，它可以把本地某个端口的服务，通过一个安全隧道，映射到公网的一个地址。同时它提供了一个 Web 页面，展示了每个请求、响应的所有信息，便于调试本地的程序。基本的使用方法如下：,Python
+title,description,programming_language
+saythanks.io,Kennethreitz 写的一个简单的网站（基于 Flask），用于向开源项目作者发送感谢邮件的 Web App。该项目结构简单，可以用来学习大神是如何快速开发 Web 项目、方法、代码风格、开发常用库。而且该项目的意义也特别好：，愿开源社区越来越好，,Python
+title,description,programming_language
+locust,模拟用户行为的工具，包含友好的 Web 页面，如下图：,Python
+title,description,programming_language
+jumpserver,Jumpserver 是一款由 Python 编写开源的跳板机（是一类可作为跳板批量操作远程设备的网络设备）系统，实现了跳板机应有的功能。基于 SSH 协议来管理，客户端无需安装 agent。支持常见 Linux 系统，效果如下：,Python
+title,description,programming_language
+sh,sh 是一个成熟，用于替代 subprocess，它允许你调用任何程序，就像它是一个函数，支持 Python2.6 - 3.5,Python
+title,description,programming_language
+fastText.py,fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。,Python
+title,description,programming_language
+mongoaudit,强大的 MongoDB 渗透测试工具，用于发掘 MongoDB 漏洞、并提出改善方法。,Python
+title,description,programming_language
+mycli,mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：,Python
+title,description,programming_language
+python-fire,Fire 是 Google 开源的 Python 库，可自动将您的代码转变成 CLI，无需您做任何额外工作。您不必定义参数，设置帮助信息，或者编写定义代码运行方式的 main 函数。相反，您只需从 main 模块调用“Fire”函数，其余工作全部交由 Python Fire 来完成。示例代码如下：,Python
+title,description,programming_language
+ngxtop,解析 nginx 访问日志并格式化输出有用的信息，可以用来实时了解你的服务器正在发生的情况。安装命令 ，输出示例如下：,Python
+title,description,programming_language
+searx,分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。,Python
+title,description,programming_language
+grequests,Rquests + Gevent 让异步 HTTP 变得简单、人性化。示例代码：,Python
+title,description,programming_language
+explainshell,一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：，,Python
+title,description,programming_language
+certbot,免费的自动启用和部署 HTTPS 的工具，让你的网站开启 HTTPS 变得简单快捷。在部署教程页面选择服务器的操作系统和 Web 服务器，之后根据给出的步骤一步步的执行命令就行了，,Python
+title,description,programming_language
+pdir2,Python 程序员需要一个更好的  —— 以更加友好的显示  输出的结果,Python
+title,description,programming_language
+musicbox,基于 Python 编写的网易云音乐版本，使用起来简单优雅，能够快速安装及使用,Python
+title,description,programming_language
+django-blog-tutorial,基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，,Python
+title,description,programming_language
+aredis,一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：,Python
+title,description,programming_language
+freezegun,时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：,Python
+title,description,programming_language
+getproxy,极简的抓取代理项目，无需配置。不仅提供了获取代理脚本，同时可以通过，直接获取可用代理（15min 更新、类型包含http和https）,Python
+title,description,programming_language
+syncPlaylist,在网易云音乐与 QQ 音乐之间同步歌单。易于使用、配置方便、代码简单，用到的技术： +  以及  +,Python
+title,description,programming_language
+GetSubtitles,通过拖曳视频文件进终端， 到视频对应文件夹，并重命名字幕名称为视频名称。Ubuntu 16.04、Windows 10上测试通过，同时兼容 Python2、3。Python 的魅力之一就是可以 Cool ✌️,Python
+title,description,programming_language
+huey,结合 redis 实现的轻量任务队列，但是支持功能还是很多的：,Python
+title,description,programming_language
+simiki,"一个简单的个人 Wiki 框架，便于快速搭建 Wiki 页。使用 Markdown 书写 Wiki, 生成静态 HTML 页面。Wiki 源文件按目录分类存放, 方便管理维护。",Python
+title,description,programming_language
+pyecharts,Echarts+Python 实现的一个用于生成 Echarts 图表的类库,Python
+title,description,programming_language
+proxy_pool,基于 Python 的自建代理 IP 池服务，通过网络爬虫抓取互联网上免费的代理 IP，本地校验、剔除失效的代理IP，从而实现高可用的代理 IP 池。最后使用 Flask 搭建提供代理 IP 服务，包括代理池刷新、无效代理删除、代理获取等。该项目设计文档详细、模块结构简明易懂，同时适合爬虫新手更好的学习爬虫技术,Python
+title,description,programming_language
+WeiboSpider,分布式微博爬虫，支持快速抓取和稳定抓取两种运行模式。项目模块逻辑清晰、注释丰富、便于定制化自己的需求。同时，对于小白用户，可以通过演示视频快速入门，也提供QQ群答疑，已经持续维护一年多。靠谱的项目，小伙伴们要赶快上车～,Python
+title,description,programming_language
+pygorithm,一个帮助学习主要算法的库，可以通过理解这些算法的实现，提高自己的算法水平。冒泡排序示例：,Python
+title,description,programming_language
+faker,用于生成假数据的库，支持多种语言，你值得拥有。示例代码：,Python
+title,description,programming_language
+binlog2sql,从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能,Python
+title,description,programming_language
+pandas-tutorial,这套 pandas 教程包含从初级到进阶的内容，适合初学者和希望进阶建立知识体系的数据科学从业者阅读。作者还在持续更新高级内容，你值得拥有,Python
+title,description,programming_language
+pysheeet,Python 速查表，,Python
+title,description,programming_language
+robobrowser,提供多种模拟操作网页的库，比如获得网页内容、访问链接、点击按钮、填充并提交表单、上传文件。使用简单、API 友好。适用于想要通过脚本流程化操作，某些未提供这些操作接口的场景，示例代码如下：,Python
+title,description,programming_language
+ItChat,开源的微信个人号SDK，提供了丰富的功能。从而使得 Python 调用微信、发送消息、传输文件等操作只需要编写极少的代码，示例代码如下：,Python
+title,description,programming_language
+records,Kenneth Reitz 大神的系列，Records 是一个支持大多数主流关系数据库的原生 SQL 查询第三方库。API 友好，使用简单、支持命令行模式、功能多样。与此同时该库只有 500 行代码，可以当作入门阅读源码的项目，同时学习大神的编程技巧与习惯，示例代码如下：,Python
+title,description,programming_language
+zdict,方便的终端字典工具，支持多种字典和参数、翻译结果高亮、以及交互模式查询。安装命令  （仅支持 Python3）。查询效果如下图所示：,Python
+title,description,programming_language
+joblib,使用 Python 方便的进行并行计算，示例代码如下：,Python
+title,description,programming_language
+thefuck,在 Linux 命令行中，当你输入的命令有错误后，直接输入  就可以自动执行修复后的命令，效果图如下：,Python
+title,description,programming_language
+youtube-dl,强大的视频下载工具，支持几百个国内外主流视频网站。正如名字一样，最初是为了下载 youtube 上的视频而开发的。如果有国外服务器的朋友，可以充分利用这个工具，下载 youtube 上的视频，速度不要太爽。下面介绍安装、下载视频等命令：,Python
+title,description,programming_language
+jieba,强大的 Python 分词库，拿来直接用就好。示例代码如下：,Python
+title,description,programming_language
+shell-functools,把函数式的编程带入 shell，从而让很多事情变得简单。通过 Python 的高阶函数和内置模块 os.path 与命令的管道结合，达到了强大、高效的功效。相比于单纯的命令实现更加的直观和容易理解，示例代码如下：,Python
+title,description,programming_language
+pydu,该库将平时常用的数据结构和工具都收录其中，可供日常开发的使用，同时方便学习与借鉴，丰富的能帮助新手更好的理解和使用它。这些实用的模块都是来自于开源项目和贡献者们的智慧，快来加入到这个项目中，让它变得更加实用和丰富,Python
+title,description,programming_language
+tqdm,强大、快速、易扩展的 Python 进度条库。我想通过下面的示例代码和效果展示图，你会跑去给这个项目来个 Star 的,Python
+title,description,programming_language
+rq,基于 redis 的简单、轻量级任务队列库。可以帮助理解简单的任务队列模式和设计。使用简单、文档健全，适用于小型项目或简单的场景。,Python
+title,description,programming_language
+python-console-snake,命令行贪吃蛇,Python
+title,description,programming_language
+toapi,该项目做的事儿是通过简单的配置把目标网页的内容爬下来，缓存结果后提供成 API 的一条龙服务。,Python
+title,description,programming_language
+HAipproxy,使用 Scrapy＋Redis 实现的高可用分布式 IP 代理池，为大型分布式爬虫提供高可用低延迟的代理 IP 资源。,Python
+title,description,programming_language
+MovieHeavens,基于 Pyqt4 的电影天堂电影搜索工具，再也不用忍受各种广告和点击跳转了,Python
+title,description,programming_language
+WechatSogou,基于搜狗微信搜索的微信公众号爬虫库，极易上手。示例代码：,Python
+title,description,programming_language
+Synonyms,中文近义词工具包。支持自然语言理解的很多任务：文本对齐、推荐算法、相似度计算、语义偏移、关键字提取、概念提取、自动摘要、搜索引擎等。示例代码如下：,Python
+title,description,programming_language
+pook,模拟 HTTP 请求结果的库，可用于单元测试等场景。采用装饰器方式调用的示例代码如下：,Python
+title,description,programming_language
+incubator-airflow,定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的,Python
+title,description,programming_language
+wtfpython,（英文）有趣、令人惊讶（坑爹）、鲜为人知的 Python 代码片段集合,Python
+title,description,programming_language
+redis-faina,Redis 性能分析器。提供两种模式分析模式：命令实时、读取日志。其原理是使用 Redis MONITOR 命令，将该命令的结果通过管道传递给 redis-faina 脚本，脚本将返回的信息解析，并汇成总成统计信息。具体信息如下所示：,Python
+title,description,programming_language
+marshmallow,使用类似于 ORM 的语法，序列化、反序列化 Python 对象。可以将序列化的对象呈现为标准格式，适用于例如数据校验、返回 HTTP API 的 JSON。示例代码如下：,Python
+title,description,programming_language
+unimatrix,模拟“黑客帝国”影片中的终端动画脚本,Python
+title,description,programming_language
+pudb,基于控制台的全屏 Python 可视化调试器。比 pdb 好用太多了，特性：,Python
+title,description,programming_language
+Scylla,一款高质量的免费代理 IP 池工具，仅支持 Python 3.6。，特性如下：,Python
+title,description,programming_language
+hue,开源的 Apache Hadoop UI 系统。通过使用 Hue 我们可以在浏览器端的 Web 控制台上与 Hadoop 集群进行交互来分析处理数据。核心功能：,Python
+title,description,programming_language
+FeelUOwn,一个符合 Unix 哲学的跨平台的音乐播放器，主要面向 Linux/macOS 用户。特性：,Python
+title,description,programming_language
+tinydb,TinyDB 是使用纯 Python 编写的 NoSQL 数据库，使用 json 文件存储数据。它区别于 SQLite 的关系性数据库。同样的小、不需要依赖外部服务器。适用于桌面程序、客户端，不适用于 Web 应用、高性能的数据查询。友好的 API，示例代码：,Python
